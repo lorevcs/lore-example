@@ -1,0 +1,3 @@
+# Lore tracks intent, not code. The website is build output — never committed.
+# Run `lore materialize | claude` to regenerate it from the intent in .lore/.
+code/
