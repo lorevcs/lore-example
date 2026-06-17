@@ -1,1 +1,0 @@
-{"type":"entry","kind":"decision","author":{"name":"ray","email":"ray@lorevcs.com"},"timestamp":1781719259586978000,"text":"Swap the rightmost ball with the leftmost ball: exchange their positions so the ball that was on the right is now on the left, and the ball that was on the left is now on the right. Their colors move with them."}

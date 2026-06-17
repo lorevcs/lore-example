@@ -1,1 +1,0 @@
-{"type":"entry","kind":"decision","author":{"name":"ray","email":"ray@lorevcs.com"},"timestamp":1781719259570705000,"text":"The website is a single static page at ./code/index.html, built with plain HTML and CSS — no framework and no build step."}
