@@ -32,7 +32,17 @@ curl -fsSL https://lorevcs.com/install.sh | sh
 
 (or, with Rust already installed: `cargo install --git https://github.com/lorevcs/lore`)
 
-**2. Materialize the intent and pass it into Claude**
+**2. Clone the intent from [lorehub](https://hub.lorevcs.com)**
+
+```sh
+lore clone https://hub.lorevcs.com/lore/lore-example
+cd lore-example
+```
+
+This pulls the committed intent — every prompt and decision — over lore's own hosting.
+There is no website yet; you generate it in the next step.
+
+**3. Materialize the intent and pass it into Claude**
 
 ```sh
 lore materialize | claude
