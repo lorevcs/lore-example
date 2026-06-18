@@ -5,7 +5,7 @@
   },
   "remotes": {
     "origin": {
-      "url": "http://localhost:8787/lore/lore-example"
+      "url": "https://hub.lorevcs.com/lore/lore-example"
     }
   }
 }
