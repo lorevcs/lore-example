@@ -1,11 +1,11 @@
 {
   "user": {
-    "name": "ray",
-    "email": "ray@lorevcs.com"
+    "name": "lore",
+    "email": "lore@lorevcs.com"
   },
   "remotes": {
     "origin": {
-      "url": "https://hub.lorevcs.com/lore/lore-example"
+      "url": "http://localhost:8787/lore/lore-example"
     }
   }
 }
