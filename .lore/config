@@ -3,5 +3,9 @@
     "name": "ray",
     "email": "ray@lorevcs.com"
   },
-  "remotes": {}
+  "remotes": {
+    "origin": {
+      "url": "https://hub.lorevcs.com/lore/lore-example"
+    }
+  }
 }
